@@ -1,0 +1,38 @@
+{
+    "name": "Matt Steele",
+    "occupation": "Software Engineer",
+    "location": "Denver, CO",
+    "avatar": "avatar.jpg",
+    "pronouns": "",
+    "email": "mattsteele@outlook.com",
+    "telephone": "(720) 253-3764",
+    "website": "https://mattsteele.dev",
+    "skills": [
+        "HTML",
+        "CSS",
+        "Javascript / ES6",
+        "AWS",
+        "Vue",
+        "Node",
+        "Angular",
+        "Git"
+    ],
+    "languages": [
+        {
+            "name": "English",
+            "level": "native"
+        }
+    ],
+    "social": [
+        {
+            "name": "Github",
+            "user": "@mattsteele",
+            "url": "https://github.com/mattsteele"
+        },
+        {
+            "name": "LinkedIn",
+            "user": "mattwsteele",
+            "url": "https://www.linkedin.com/in/mattwsteele"
+        }
+    ]
+}
