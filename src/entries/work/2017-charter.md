@@ -1,5 +1,5 @@
 ---
-title: Software Engineer - Prototype Developer
+title: Software Developer - Prototyping
 organization: Charter Communications
 organizationUrl: https://www.spectrum.net
 location: Denver, CO
