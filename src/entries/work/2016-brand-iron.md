@@ -7,7 +7,4 @@ start: 2015-01-01
 end: 2016-02-01
 ---
 
-- Create client-facing applications in JavaScript & PHP
-- Development in Craft & Statamic CMS's
-- Train clients on CMS usage & best practices
-- Develop eCommerce sites & associated payment & user flows
+At Brand Iron I led a small team creating websites for clients in a variety of industries. I was responsible for front end & back end operations & maintenance.

@@ -41,7 +41,7 @@ layout: base
             </section>
             {% endif %}
 
-            {% if author.languages %}
+            {# {% if author.languages %}
             <section class="section section--half" id="section-languages">
                 <h2 class="section__title">{{ strings.titles.languages }}</h2>
                 <ul class="bulletlist">
@@ -50,11 +50,11 @@ layout: base
                 {% endfor %}
                 </ul>
             </section>
-            {% endif %}
+            {% endif %} #}
         </div>
     {% endif %}
 
-    {% if collections.custom.length %}
+    {# {% if collections.custom.length %}
         {% set custom = collections.custom|first %}
         <section class="section" id="section-custom">
             {% if custom.data.title %}
@@ -64,6 +64,6 @@ layout: base
                 {{ custom.templateContent | safe }}
             </div>
         </section>
-    {% endif %}
+    {% endif %} #}
 
 </main>
