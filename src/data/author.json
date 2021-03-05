@@ -8,14 +8,15 @@
     "telephone": "",
     "website": "https://mattsteele.dev",
     "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
-        "AWS",
+        "Javascript",
         "Vue",
-        "Node",
         "Angular",
-        "Git"
+        "Node",
+        "Express",
+        "AWS",
+        "Git",
+        "HTML",
+        "CSS"
     ],
     "languages": [
         {
