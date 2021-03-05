@@ -3,4 +3,4 @@ tags: introduction
 title: About Me
 ---
 
-I am a Software Engineer with 10 years of experience. I create prototypes, design systems tooling, and proof-of-concept work. My focus is on creating engaging, accessible & performant interfaces for humans.
+I'm Software Engineer with 10 years of experience. I create prototypes, design systems tooling, and proof-of-concept work. My focus is on creating engaging, accessible & performant interfaces for humans.
