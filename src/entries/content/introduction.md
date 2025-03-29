@@ -3,4 +3,4 @@ tags: introduction
 title: About Me
 ---
 
-I'm a Software Engineer with 10 years of experience. I create web applications with JavaScript (Vue, Angular, Node, etc.). I build prototypes, design systems tooling, and proof-of-concept work. My work encompasses front-end architecture, backend API's & AWS.
+Experienced Software Engineer with 10+ years of expertise in building scalable web applications, design systems, and enhancing developer experience (DX). Proficient in JavaScript, React, and Angular with a strong focus on front-end architecture, backend APIs, and AWS. Skilled in delivering end-to-end solutions, including eCommerce platforms, developer tooling, and client-facing applications.

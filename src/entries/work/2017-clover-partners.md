@@ -7,4 +7,4 @@ start: 2016-05-01
 end: 2017-10-01
 ---
 
-At Clover I created client-facing applications in JavaScript & PHP backed by Craft & Statamic CMS's. I saw the entire client lifecycle from initial UX design & flows to training clients on CMS usage. My work included developing eCommerce sites & associated payment & user flows.
+Developed client-facing applications using JavaScript and PHP, integrated with Craft and Statamic CMS platforms. Led the full client lifecycle, from UX design and workflows to CMS training. Delivered eCommerce solutions, including payment systems and user flow optimizations.

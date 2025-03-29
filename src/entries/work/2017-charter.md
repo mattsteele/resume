@@ -6,4 +6,4 @@ location: Denver, CO
 start: 2017-10-01
 ---
 
-As part of the Design Enablement Team I create JavaScript based prototypes, proof-of-concept applications & design systems work. My work encompasses front-end architecture, backend API's, and work in AWS.
+Contributed to the Design Systems Engineering Team by developing and maintaining scalable libraries and tools in JavaScript, React, and Angular. Delivered solutions for design tokens, iconography, and mobile platforms to enhance developer experience and streamline application development.

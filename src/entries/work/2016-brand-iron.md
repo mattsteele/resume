@@ -7,4 +7,4 @@ start: 2015-01-01
 end: 2016-02-01
 ---
 
-At Brand Iron I led a small team creating websites for clients in a variety of industries. I was responsible for front-end & back-end operations & maintenance.
+Led a team to design and develop websites for clients across various industries. Managed front-end and back-end development, ensuring seamless operations and ongoing maintenance.
